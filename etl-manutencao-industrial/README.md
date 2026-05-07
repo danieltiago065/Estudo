@@ -44,6 +44,19 @@ Este projeto segue uma estrutura dimensional(modelo estrela)
 
 ---
 
+#  Apoio com Inteligência Artificial
+
+Durante o desenvolvimento deste projeto, foram utilizados recursos de inteligência artificial como apoio para:
+
+- esclarecimento de conceitos técnicos
+- revisão de código Python
+- sugestões de modelagem e estruturação de dados
+- boas práticas de ETL e organização de projetos
+
+A IA foi utilizada como ferramenta de suporte ao aprendizado e desenvolvimento do projeto, não substituindo o processo de estudo e implementação prática.
+
+---
+
 # Estrutura do Projeto:
 ```text id="flow_01"
 
