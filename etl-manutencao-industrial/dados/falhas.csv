@@ -1,0 +1,121 @@
+﻿id_falha,id_maquina,data_falha,tipo_falha,tempo_parado_horas,custo_manutencao
+1,23,2025-09-10,Superaquecimento,14.72,11081.11
+2,35,2024-05-07,Problema de alinhamento,2.34,4751.09
+3,41,2025-09-25,Falha pneumática,10.81,10716.29
+4,3,2025-11-08,Sensor defeituoso,14.14,14785.71
+5,15,2024-04-13,Problema de alinhamento,5.73,9717.42
+6,24,2024-06-15,Falha pneumática,7.04,10217.54
+7,45,2025-11-30,Falha mecânica,11.36,2981.51
+8,16,2024-06-16,Contaminação de processo,7.45,14848.09
+9,41,2025-12-05,Sensor defeituoso,12.64,12721.35
+10,4,2024-08-22,Falha elétrica,14.69,6316.89
+11,5,2024-08-04,Falha pneumática,4.61,7738.85
+12,42,2025-04-14,Parada hidráulica,5.5,4076.1
+13,36,2025-07-05,Superaquecimento,13.7,6712.29
+14,38,2025-02-12,Falha pneumática,4.73,14964.3
+15,33,2025-05-20,Falha mecânica,13.85,12985.99
+16,10,2025-10-04,Parada hidráulica,14.47,6621.32
+17,5,2025-01-29,Problema de alinhamento,11.13,7286.72
+18,17,2025-07-20,Falha elétrica,12.56,2161.0
+19,35,2024-09-30,Falha pneumática,2.9,6804.1
+20,30,2024-01-04,Superaquecimento,17.52,11548.45
+21,33,2024-04-18,Superaquecimento,15.31,7861.11
+22,13,2024-06-05,Falha pneumática,13.96,8321.0
+23,34,2024-01-01,Falha pneumática,9.31,2122.08
+24,24,2024-11-10,Sensor defeituoso,1.98,13231.14
+25,6,2024-03-28,Contaminação de processo,14.87,14680.78
+26,35,2024-05-08,Parada hidráulica,12.22,14229.31
+27,11,2024-09-28,Problema de alinhamento,17.39,13969.25
+28,45,2024-07-24,Superaquecimento,7.78,10239.46
+29,24,2025-03-24,Contaminação de processo,3.06,3758.11
+30,22,2024-01-22,Sensor defeituoso,11.0,604.27
+31,41,2024-03-01,Sensor defeituoso,2.15,955.49
+32,22,2024-03-13,Sensor defeituoso,5.73,7538.51
+33,35,2024-05-15,Contaminação de processo,5.13,7358.11
+34,27,2024-07-13,Falha mecânica,2.65,6750.24
+35,28,2025-02-24,Contaminação de processo,15.69,1285.48
+36,42,2025-10-23,Falha mecânica,2.03,11059.1
+37,7,2024-09-11,Sensor defeituoso,4.23,7004.9
+38,28,2024-07-06,Superaquecimento,8.86,13180.05
+39,5,2025-03-29,Falha mecânica,1.86,14989.6
+40,1,2024-04-05,Sensor defeituoso,3.83,7541.8
+41,14,2025-02-14,Falha elétrica,3.8,531.25
+42,25,2024-09-28,Contaminação de processo,5.85,10600.58
+43,36,2025-11-08,Contaminação de processo,3.63,4802.26
+44,4,2025-08-16,Falha elétrica,13.72,1328.9
+45,38,2025-05-03,Parada hidráulica,1.97,7863.51
+46,12,2024-03-11,Falha mecânica,12.48,3910.46
+47,8,2025-08-06,Sensor defeituoso,10.84,1076.25
+48,6,2025-03-05,Falha pneumática,16.89,3461.76
+49,21,2024-09-01,Superaquecimento,7.73,10239.51
+50,20,2025-04-13,Falha pneumática,16.79,14068.15
+51,1,2025-04-14,Falha mecânica,2.25,3590.74
+52,17,2024-05-15,Falha pneumática,15.97,13249.42
+53,24,2024-10-18,Parada hidráulica,8.45,8376.66
+54,20,2025-09-18,Falha elétrica,12.35,8541.73
+55,43,2024-04-16,Parada hidráulica,5.5,13400.83
+56,36,2024-06-08,Superaquecimento,5.79,3554.13
+57,22,2024-07-27,Superaquecimento,9.59,4141.26
+58,4,2024-04-04,Problema de alinhamento,15.1,1139.26
+59,22,2024-05-13,Superaquecimento,3.75,6906.61
+60,28,2025-07-28,Falha elétrica,2.9,14203.24
+61,45,2024-06-01,Falha elétrica,15.19,8946.39
+62,10,2025-03-16,Parada hidráulica,1.71,5787.45
+63,3,2025-01-01,Sensor defeituoso,12.6,10170.53
+64,23,2025-07-27,Problema de alinhamento,17.56,11367.43
+65,16,2024-06-15,Parada hidráulica,15.98,859.4
+66,22,2025-02-25,Sensor defeituoso,5.54,11916.93
+67,7,2025-01-26,Falha elétrica,15.6,3725.29
+68,30,2024-12-24,Superaquecimento,14.95,13134.18
+69,15,2024-01-25,Sensor defeituoso,7.77,4539.74
+70,5,2024-10-12,Falha pneumática,11.91,6295.34
+71,35,2024-12-05,Falha elétrica,2.96,14570.81
+72,12,2025-08-17,Superaquecimento,1.65,9150.28
+73,23,2024-11-17,Problema de alinhamento,11.31,7915.63
+74,25,2025-08-13,Sensor defeituoso,5.33,10777.39
+75,1,2025-06-16,Sensor defeituoso,7.19,1514.62
+76,43,2024-12-04,Falha pneumática,12.28,2307.07
+77,20,2025-06-03,Superaquecimento,12.34,5229.65
+78,45,2024-10-29,Parada hidráulica,4.26,10141.48
+79,25,2025-11-24,Parada hidráulica,11.46,4863.77
+80,36,2024-01-01,Superaquecimento,5.88,6733.38
+81,38,2025-09-13,Falha pneumática,8.9,6911.32
+82,14,2025-06-07,Contaminação de processo,14.49,14417.56
+83,11,2025-11-05,Falha mecânica,5.82,10125.88
+84,40,2024-12-09,Falha mecânica,14.91,11391.5
+85,44,2024-11-13,Sensor defeituoso,14.71,2636.63
+86,3,2024-09-07,Contaminação de processo,11.39,11643.1
+87,30,2025-02-28,Sensor defeituoso,13.21,6067.69
+88,26,2024-09-06,Parada hidráulica,12.15,580.4
+89,7,2025-03-11,Sensor defeituoso,3.99,14390.51
+90,34,2025-04-20,Falha elétrica,10.48,13803.32
+91,8,2025-04-12,Parada hidráulica,14.62,10179.88
+92,36,2025-09-01,Falha pneumática,17.15,13425.68
+93,40,2025-05-31,Problema de alinhamento,15.12,8444.14
+94,11,2025-05-01,Contaminação de processo,5.41,4084.98
+95,41,2024-10-10,Contaminação de processo,11.65,4481.66
+96,5,2025-12-31,Superaquecimento,4.99,5369.79
+97,35,2024-03-23,Parada hidráulica,3.56,6054.01
+98,10,2025-12-24,Sensor defeituoso,2.09,6410.19
+99,35,2025-04-22,Problema de alinhamento,2.06,12576.92
+100,25,2025-08-21,Falha elétrica,15.56,11601.12
+101,25,2025-05-03,Falha elétrica,17.03,4829.88
+102,25,2025-03-05,Sensor defeituoso,9.3,4457.56
+103,32,2024-01-30,Problema de alinhamento,6.71,10347.56
+104,26,2024-06-18,Contaminação de processo,16.63,14720.47
+105,35,2024-01-28,Problema de alinhamento,11.06,10113.5
+106,6,2025-10-20,Problema de alinhamento,3.31,7194.63
+107,4,2024-09-23,Problema de alinhamento,6.56,7093.14
+108,22,2025-01-23,Superaquecimento,13.78,12562.9
+109,17,2024-03-24,Contaminação de processo,1.33,8321.58
+110,23,2024-08-17,Falha mecânica,14.28,9950.44
+111,2,2024-09-10,Sensor defeituoso,15.27,9509.37
+112,16,2024-05-09,Contaminação de processo,12.38,8677.56
+113,14,2025-04-21,Superaquecimento,14.04,2932.94
+114,39,2024-04-27,Parada hidráulica,17.4,2067.43
+115,2,2024-11-15,Problema de alinhamento,7.74,10867.71
+116,5,2025-08-29,Sensor defeituoso,2.73,11700.97
+117,44,2025-09-06,Falha mecânica,14.54,8706.02
+118,3,2024-12-21,Problema de alinhamento,12.25,1499.87
+119,42,2024-12-15,Falha elétrica,15.44,12423.8
+120,7,2025-03-19,Falha pneumática,11.8,12516.26

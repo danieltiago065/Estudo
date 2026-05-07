@@ -1,0 +1,46 @@
+﻿id_maquina,nome_maquina,setor,tipo,data_instalacao
+1,Desbobinador 1,Seção de Entrada,Desbobinador 1,2022-03-04
+2,Desbobinador 2,Seção de Entrada,Desbobinador 2,2016-04-01
+3,Suporte de Passagem,Seção de Entrada,Suporte de Passagem,2015-04-13
+4,Grampeadora (Joiner),Seção de Entrada,Grampeadora (Joiner),2018-01-31
+5,Pisador de Chapa,Seção de Entrada,Pisador de Chapa,2017-09-30
+6,Freio de Chpa,Seção de Entrada,Freio de Chpa,2017-07-03
+7,Pré-Cleaner,Seção de Entrada,Pré-Cleaner,2016-07-25
+8,Rolos Tensionadores Entrada,Seção de Entrada,Rolos Tensionadores Entrada,2016-02-24
+9,Acumulador de Entrada,Seção de Entrada,Acumulador de Entrada,2022-08-03
+10,Guia-Alinhador 1,Seção de Entrada,Guia-Alinhador 1,2021-02-11
+11,Tanque de Desengraxe 1,Seção de Tratamento Químico,Tanque de Desengraxe 1,2015-12-23
+12,Tanque de Lavagem 1,Seção de Tratamento Químico,Tanque de Lavagem 1,2021-08-15
+13,Tanque de Lavagem 2,Seção de Tratamento Químico,Tanque de Lavagem 2,2019-09-25
+14,Vaso Comunicante Desengraxe 1,Seção de Tratamento Químico,Vaso Comunicante Desengraxe 1,2015-05-11
+15,Vaso Comunicante Lavagem 2,Seção de Tratamento Químico,Vaso Comunicante Lavagem 2,2015-05-03
+16,Tanque de Desengraxe 2 (Reserva),Seção de Tratamento Químico,Tanque de Desengraxe 2 (Reserva),2016-01-19
+17,Tanque de Lavagem 3 (Reserva),Seção de Tratamento Químico,Tanque de Lavagem 3 (Reserva),2017-06-14
+18,Bridle 1,Seção de Tratamento Químico,Bridle 1,2017-08-10
+19,Facas de Ar para Secagem,Seção de Tratamento Químico,Facas de Ar para Secagem,2020-08-31
+20,Suporte de Rolos Defletores,Seção de Tratamento Químico,Suporte de Rolos Defletores,2021-10-01
+21,Pintadora Química,Seção de Tratamento Químico,Pintadora Química,2015-04-19
+22,Mesa de Motores Pintadora Química,Seção de Tratamento Químico,Mesa de Motores Pintadora Química,2021-04-17
+23,Estufa Tratamento Químico,Seção de Tratamento Químico,Estufa Tratamento Químico,2017-03-25
+24,Guia-Alinhador 2,Seção de Tratamento Químico,Guia-Alinhador 2,2022-04-15
+25,Rolo de Curva,Seção de Tratamento Químico,Rolo de Curva,2022-11-12
+26,Suporte de Rolos Defletores Primer,Seção de Pintura,Suporte de Rolos Defletores Primer,2021-02-10
+27,Pintadora Primer,Seção de Pintura,Pintadora Primer,2019-09-15
+28,Mesa de Motores Primer,Seção de Pintura,Mesa de Motores Primer,2017-06-21
+29,Estufa Primer,Seção de Pintura,Estufa Primer,2020-01-14
+30,Base de Rolos Cromados Primer,Seção de Pintura,Base de Rolos Cromados Primer,2021-08-10
+31,Guia-Alinhador 3,Seção de Pintura,Guia-Alinhador 3,2018-02-13
+32,Bridle 2,Seção de Pintura,Bridle 2,2015-01-27
+33,Suporte de Rolos Defletores Acabamento,Seção de Pintura,Suporte de Rolos Defletores Acabamento,2016-10-15
+34,Pintadora Acabamento,Seção de Pintura,Pintadora Acabamento,2022-10-30
+35,Estufa Acabamento,Seção de Pintura,Estufa Acabamento,2019-09-28
+36,Base de Rolos Cromados Acabamento,Seção de Pintura,Base de Rolos Cromados Acabamento,2018-10-25
+37,Guia-Alinhador 4,Seção de Pintura,Guia-Alinhador 4,2018-02-12
+38,Desbobinador de Filme,Seção de Aplicação de Filme,Desbobinador de Filme,2016-09-28
+39,Aplicador de Filme,Seção de Aplicação de Filme,Aplicador de Filme,2017-05-31
+40,Bridle 3,Seção de Aplicação de Filme,Bridle 3,2018-10-10
+41,Acumulador de Saída,Seção de Saída,Acumulador de Saída,2016-02-23
+42,Rolos Tensionadores Saída,Seção de Saída,Rolos Tensionadores Saída,2016-01-15
+43,Tesoura Guilhotina,Seção de Saída,Tesoura Guilhotina,2019-04-06
+44,Sensor Guia de Alinhamento,Seção de Saída,Sensor Guia de Alinhamento,2016-02-01
+45,Rebobinador de Chapa,Seção de Saída,Rebobinador de Chapa,2019-01-10

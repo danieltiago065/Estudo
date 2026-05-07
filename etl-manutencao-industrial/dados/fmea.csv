@@ -1,0 +1,81 @@
+﻿id_maquina,modo_falha,causa_falha,efeito_falha,severidade,ocorrencia,deteccao,rpn,acao_recomendada,data_analise
+41,Falha elétrica,Falta de lubrificação,Aumento de custo operacional,5,4,2,40,Inspeção preventiva,2026-05-02
+44,Sensor defeituoso,Erro operacional,Parada de linha,9,9,2,162,Inspeção preventiva,2026-05-02
+6,Superaquecimento,Variação de processo,Perda de qualidade,5,9,8,360,Monitoramento preditivo,2026-05-02
+42,Falha pneumática,Variação de processo,Retrabalho,9,7,2,126,Inspeção preventiva,2026-05-02
+11,Falha elétrica,Falta de lubrificação,Retrabalho,9,7,5,315,Inspeção preventiva,2026-05-02
+6,Sensor defeituoso,Falha de sensor,Parada de linha,7,7,5,245,Monitoramento preditivo,2026-05-02
+30,Sensor defeituoso,Falha de sensor,Aumento de custo operacional,7,7,2,98,Padronização operacional,2026-05-02
+24,Contaminação de processo,Falta de lubrificação,Retrabalho,7,2,2,28,Inspeção preventiva,2026-05-02
+15,Falha pneumática,Sobrecarga térmica,Retrabalho,9,7,5,315,Revisão do sistema,2026-05-02
+24,Contaminação de processo,Sobrecarga térmica,Parada de linha,7,4,8,224,Padronização operacional,2026-05-02
+41,Falha pneumática,Erro operacional,Retrabalho,5,4,2,40,Monitoramento preditivo,2026-05-02
+45,Falha elétrica,Desgaste de componente,Retrabalho,7,7,2,98,Calibração de sensores,2026-05-02
+18,Desalinhamento,Falta de lubrificação,Aumento de custo operacional,3,9,8,216,Calibração de sensores,2026-05-02
+26,Desalinhamento,Falta de lubrificação,Perda de qualidade,9,7,2,126,Monitoramento preditivo,2026-05-02
+36,Sensor defeituoso,Erro operacional,Retrabalho,7,9,5,315,Revisão do sistema,2026-05-02
+9,Superaquecimento,Falta de lubrificação,Aumento de custo operacional,7,2,2,28,Revisão do sistema,2026-05-02
+44,Falha pneumática,Variação de processo,Scrap de material,7,2,5,70,Padronização operacional,2026-05-02
+17,Contaminação de processo,Desgaste de componente,Aumento de custo operacional,9,2,8,144,Padronização operacional,2026-05-02
+18,Desalinhamento,Erro operacional,Perda de qualidade,9,7,2,126,Calibração de sensores,2026-05-02
+1,Falha elétrica,Variação de processo,Parada de linha,9,4,8,288,Monitoramento preditivo,2026-05-02
+20,Falha elétrica,Falta de lubrificação,Retrabalho,9,9,8,648,Revisão do sistema,2026-05-02
+35,Sensor defeituoso,Falha de sensor,Scrap de material,9,9,2,162,Inspeção preventiva,2026-05-02
+8,Superaquecimento,Falta de lubrificação,Redução de produtividade,9,4,2,72,Inspeção preventiva,2026-05-02
+6,Falha elétrica,Falta de lubrificação,Aumento de custo operacional,9,2,8,144,Calibração de sensores,2026-05-02
+36,Falha pneumática,Falta de lubrificação,Redução de produtividade,5,9,8,360,Monitoramento preditivo,2026-05-02
+45,Contaminação de processo,Sobrecarga térmica,Retrabalho,5,4,5,100,Calibração de sensores,2026-05-02
+34,Superaquecimento,Falha de sensor,Parada de linha,7,4,2,56,Padronização operacional,2026-05-02
+36,Superaquecimento,Sobrecarga térmica,Aumento de custo operacional,5,4,2,40,Inspeção preventiva,2026-05-02
+15,Superaquecimento,Variação de processo,Perda de qualidade,3,2,5,30,Troca programada de componente,2026-05-02
+43,Contaminação de processo,Variação de processo,Redução de produtividade,7,9,2,126,Calibração de sensores,2026-05-02
+16,Superaquecimento,Desgaste de componente,Aumento de custo operacional,9,7,2,126,Calibração de sensores,2026-05-02
+23,Superaquecimento,Sobrecarga térmica,Aumento de custo operacional,7,7,8,392,Monitoramento preditivo,2026-05-02
+7,Falha elétrica,Falta de lubrificação,Perda de qualidade,3,7,2,42,Padronização operacional,2026-05-02
+29,Falha pneumática,Falta de lubrificação,Parada de linha,5,4,5,100,Calibração de sensores,2026-05-02
+36,Superaquecimento,Falta de lubrificação,Perda de qualidade,3,9,2,54,Calibração de sensores,2026-05-02
+32,Falha elétrica,Erro operacional,Parada de linha,7,7,2,98,Calibração de sensores,2026-05-02
+17,Falha pneumática,Sobrecarga térmica,Aumento de custo operacional,9,7,5,315,Padronização operacional,2026-05-02
+43,Desalinhamento,Falta de lubrificação,Parada de linha,9,4,2,72,Padronização operacional,2026-05-02
+35,Superaquecimento,Variação de processo,Scrap de material,3,7,2,42,Padronização operacional,2026-05-02
+34,Falha elétrica,Desgaste de componente,Redução de produtividade,5,9,2,90,Inspeção preventiva,2026-05-02
+44,Sensor defeituoso,Falta de lubrificação,Redução de produtividade,9,7,2,126,Padronização operacional,2026-05-02
+3,Sensor defeituoso,Variação de processo,Redução de produtividade,7,7,8,392,Troca programada de componente,2026-05-02
+17,Desalinhamento,Erro operacional,Perda de qualidade,5,7,2,70,Monitoramento preditivo,2026-05-02
+42,Superaquecimento,Erro operacional,Redução de produtividade,5,7,2,70,Padronização operacional,2026-05-02
+7,Desalinhamento,Falta de lubrificação,Retrabalho,3,4,8,96,Inspeção preventiva,2026-05-02
+16,Sensor defeituoso,Sobrecarga térmica,Retrabalho,7,4,5,140,Padronização operacional,2026-05-02
+42,Contaminação de processo,Desgaste de componente,Perda de qualidade,7,9,5,315,Troca programada de componente,2026-05-02
+8,Desalinhamento,Falha de sensor,Redução de produtividade,9,9,2,162,Revisão do sistema,2026-05-02
+46,Falha pneumática,Falha de sensor,Parada de linha,7,4,8,224,Inspeção preventiva,2026-05-02
+41,Superaquecimento,Falha de sensor,Perda de qualidade,7,4,2,56,Monitoramento preditivo,2026-05-02
+17,Contaminação de processo,Erro operacional,Redução de produtividade,5,7,8,280,Inspeção preventiva,2026-05-02
+8,Superaquecimento,Falha de sensor,Redução de produtividade,3,4,8,96,Padronização operacional,2026-05-02
+10,Desalinhamento,Desgaste de componente,Retrabalho,7,2,5,70,Revisão do sistema,2026-05-02
+44,Sensor defeituoso,Erro operacional,Redução de produtividade,5,2,5,50,Monitoramento preditivo,2026-05-02
+10,Falha elétrica,Erro operacional,Parada de linha,9,4,2,72,Revisão do sistema,2026-05-02
+22,Contaminação de processo,Falta de lubrificação,Retrabalho,9,7,8,504,Revisão do sistema,2026-05-02
+45,Falha elétrica,Falta de lubrificação,Scrap de material,5,2,5,50,Troca programada de componente,2026-05-02
+20,Superaquecimento,Sobrecarga térmica,Perda de qualidade,9,4,2,72,Calibração de sensores,2026-05-02
+22,Desalinhamento,Sobrecarga térmica,Redução de produtividade,5,2,5,50,Calibração de sensores,2026-05-02
+44,Superaquecimento,Desgaste de componente,Retrabalho,9,9,5,405,Revisão do sistema,2026-05-02
+38,Superaquecimento,Variação de processo,Scrap de material,9,4,2,72,Troca programada de componente,2026-05-02
+21,Falha pneumática,Variação de processo,Perda de qualidade,7,9,2,126,Troca programada de componente,2026-05-02
+3,Sensor defeituoso,Sobrecarga térmica,Aumento de custo operacional,9,2,8,144,Monitoramento preditivo,2026-05-02
+43,Contaminação de processo,Falha de sensor,Redução de produtividade,5,7,2,70,Troca programada de componente,2026-05-02
+43,Desalinhamento,Sobrecarga térmica,Scrap de material,9,4,8,288,Troca programada de componente,2026-05-02
+26,Falha elétrica,Erro operacional,Aumento de custo operacional,9,9,2,162,Calibração de sensores,2026-05-02
+44,Sensor defeituoso,Falha de sensor,Scrap de material,9,4,8,288,Padronização operacional,2026-05-02
+1,Sensor defeituoso,Variação de processo,Aumento de custo operacional,5,4,5,100,Troca programada de componente,2026-05-02
+30,Falha pneumática,Sobrecarga térmica,Perda de qualidade,7,4,8,224,Monitoramento preditivo,2026-05-02
+6,Superaquecimento,Falta de lubrificação,Aumento de custo operacional,5,9,5,225,Troca programada de componente,2026-05-02
+15,Superaquecimento,Falta de lubrificação,Scrap de material,9,4,2,72,Padronização operacional,2026-05-02
+5,Contaminação de processo,Sobrecarga térmica,Scrap de material,7,9,2,126,Calibração de sensores,2026-05-02
+26,Falha pneumática,Falta de lubrificação,Perda de qualidade,5,2,2,20,Monitoramento preditivo,2026-05-02
+34,Superaquecimento,Erro operacional,Perda de qualidade,7,9,2,126,Calibração de sensores,2026-05-02
+43,Desalinhamento,Erro operacional,Redução de produtividade,7,9,8,504,Monitoramento preditivo,2026-05-02
+33,Falha elétrica,Sobrecarga térmica,Scrap de material,7,9,5,315,Calibração de sensores,2026-05-02
+17,Falha pneumática,Sobrecarga térmica,Perda de qualidade,9,4,8,288,Troca programada de componente,2026-05-02
+29,Desalinhamento,Falha de sensor,Retrabalho,3,4,2,24,Padronização operacional,2026-05-02
+6,Contaminação de processo,Falta de lubrificação,Aumento de custo operacional,5,4,5,100,Revisão do sistema,2026-05-02
+5,Falha pneumática,Erro operacional,Parada de linha,7,7,8,392,Revisão do sistema,2026-05-02
