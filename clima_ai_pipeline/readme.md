@@ -175,3 +175,13 @@ venv/
 ## 📄 Licença
 
 MIT License. Veja [LICENSE](LICENSE) para detalhes.
+
+---
+
+## 🤖 Desenvolvimento assistido por IA
+
+Este projeto foi idealizado, conduzido e revisado por mim. Durante o desenvolvimento, 
+utilizei o [Claude](https://claude.ai) (Anthropic) como ferramenta de auxílio — para 
+acelerar a escrita de código, identificar bugs e documentar o projeto.
+
+Todas as decisões de arquitetura, escopo e funcionalidades foram definidas pelo autor.
